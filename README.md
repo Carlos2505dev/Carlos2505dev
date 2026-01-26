@@ -39,25 +39,17 @@ Estou aberto a **estágios, vagas júnior, freelas e colaborações** que me per
 ## 🧠 Tech Stacks
 
 ### 🌐 Front-end
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Front-end](https://skillicons.dev/icons?i=html,css,js,ts,react)
 
 ### 📱 Mobile
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://skillicons.dev/icons?i=react)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
 
 ### 🗄️ Back-end & Infra
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Supabase](https://skillicons.dev/icons?i=supabase)
 
 ### 🛠️ Ferramentas & Workflow
-![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![HostGator](https://img.shields.io/badge/HostGator-FF6600?style=for-the-badge&logo=hostgator&logoColor=white)
+![Ferramentas](https://skillicons.dev/icons?i=git,github,figma,vscode)
 
 ### 🤖 IA & Produtividade
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -101,10 +93,10 @@ Em breve, aplicações web e mobile com **React, React Native, Expo e Supabase**
 
 ## ⚙️ Estatísticas do GitHub
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Carlos2505dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos2505dev&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Carlos2505dev&show_icons=true&theme=dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos2505dev&layout=compact&theme=dark&hide_border=true"/>
+</p>
 
 ---
 
