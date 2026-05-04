@@ -93,10 +93,9 @@ Em breve, aplicações web e mobile com **React, React Native, Expo e Supabase**
 
 ## ⚙️ Estatísticas do GitHub
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Carlos2505dev&show_icons=true&theme=dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos2505dev&layout=compact&theme=dark&hide_border=true"/>
-</p>
+![](https://github-readme-stats.shion.dev/api?username=Carlos2505dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Carlos2505dev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Carlos2505dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
