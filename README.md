@@ -2,33 +2,40 @@
 
 <div align="left">
 
-**Desenvolvedor Fullstack Web & Mobile | React Native Expo • Typescript • React**
+## Desenvolvedor Full Stack Web & Mobile | React • React Native • Next.js • TypeScript
 
-Desenvolvedor apaixonado por tecnologia e por transformar ideias em soluções digitais eficientes, escaláveis e com impacto real.
+Desenvolvedor focado em construir produtos digitais escaláveis, performáticos e com impacto real no negócio, unindo experiência do usuário, boas práticas de desenvolvimento e visão de produto.
 
-Atualmente curso **Engenharia da Computção na Unijorge** e atuo como **Desenvolvedor Web & Mobile na InoveTech**, participando de projetos reais em produção com foco em performance, experiência do usuário e qualidade de entrega.
+Atualmente curso **Engenharia da Computação na Unijorge** e atuo como **Desenvolvedor Web & Mobile na InoveTech**, participando de projetos reais em produção com foco em performance, usabilidade e qualidade de entrega.
 
-Estou aberto a **estágios, vagas júnior, freelas e colaborações**, sempre buscando evoluir como desenvolvedor e contribuir com projetos relevantes.
+Tenho experiência prática no desenvolvimento de aplicações web e mobile modernas, integração com APIs, autenticação, banco de dados, arquitetura de interfaces e soluções orientadas a resultados.
+
+🚀 Aberto a **estágios, oportunidades júnior, freelas e colaborações estratégicas**
+
+📩 **Contato para oportunidades:** [carlosbezerrajr2007@gmail.com](mailto:carlosbezerrajr2007@gmail.com)
+🔗 **LinkedIn:** [linkedin.com/in/carlosbezerraneto](https://www.linkedin.com/in/carlosbezerraneto/)
+🌎 **Open to international opportunities**
 
 </div>
 
 ---
 
-## ✨ Sobre mim
+# ✨ Sobre mim
 
 * 🎓 Estudante de **Engenharia da Computação — Unijorge**
 * 💼 Desenvolvedor Web & Mobile na **InoveTech**
 * 📱 Foco principal em **React, React Native, Expo e TypeScript**
-* ⚡ Experiência com **Next.js, Supabase, APIs REST e deploy de aplicações**
+* ⚡ Experiência com **Next.js, Supabase, APIs REST e aplicações em produção**
+* 🔐 Desenvolvimento com autenticação, controle de acesso e integrações client/server
 * 🎨 Atenção especial para **UX, interfaces responsivas e boas práticas**
-* 🧠 Aprendizado contínuo e resolução de problemas reais
-* 🚀 Sempre construindo soluções com visão de produto e performance
+* 🧠 Resolução de problemas reais com visão de produto e performance
+* 🚀 Sempre construindo soluções que geram valor de verdade
 
 ---
 
-## 🧠 Tech Stack
+# 🧠 Tech Stack
 
-### 🌐 Front-end
+## 🌐 Front-end
 
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
@@ -39,66 +46,85 @@ Estou aberto a **estágios, vagas júnior, freelas e colaborações**, sempre bu
 ![Vite](https://skillicons.dev/icons?i=vite)
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwindcss)
 
-### 📱 Mobile
+## 📱 Mobile
 
-![React Native](https://skillicons.dev/icons?i=react)
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/expo.png" alt="Expo" title="Expo"/>
+![React Native](https://skillicons.dev/icons?i=react) <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/expo.png" alt="Expo" title="Expo"/>
 
-### 🗄️ Back-end & Infra
+## 🗄️ Back-end & Database
 
 ![Supabase](https://skillicons.dev/icons?i=supabase)
+<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/>
 
-### 🎨 UI & Design System
+## 🎨 UI & Design System
 
-![Figma](https://skillicons.dev/icons?i=figma)
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" alt="ShadCn UI" title="ShadCn UI"/>
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lucide.png" alt="Lucide" title="Lucide"/>
+![Figma](https://skillicons.dev/icons?i=figma) <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" alt="Shadcn UI" title="Shadcn UI"/> <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lucide.png" alt="Lucide" title="Lucide"/>
 
-### 🛠️ Ferramentas & Workflow
+## 🛠️ Ferramentas & Workflow
 
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 
-### 🤖 IA & Produtividade
+---
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge\&logo=openai\&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-8957E5?style=for-the-badge\&logo=github-copilot\&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge\&logo=claude\&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-AI-blue?style=for-the-badge)
+# 📌 Projetos em Destaque
+
+## 🌐 Web Portfólio
+
+Portfólio profissional desenvolvido com foco em performance, SEO, experiência do usuário e apresentação estratégica de projetos e competências.
+
+### Stack:
+
+**Next.js • TypeScript • Tailwind CSS • Vercel**
+
+🔗 Deploy: adicionar link
+🔗 Repositório: adicionar link
 
 ---
 
-## 📌 Projetos
+## 📚 VectorLearn
 
-### 🌐 Web Portfólio
+Plataforma interativa para estudantes aprenderem vetores e análise espacial por meio de simuladores 3D, desafios práticos e elementos de gamificação, tornando o aprendizado mais visual e eficiente.
 
-Portfólio pessoal desenvolvido para apresentar minha trajetória, habilidades e projetos como desenvolvedor.
+### Stack:
 
----
+**React • TypeScript • Vite • Three.js**
 
-### 📚 VectorLearn
-
-Uma plataforma educacional de ponta desenvolvida para transformar a complexidade da Análise Espacial em uma experiência visual, interativa e gamificada.
-
-🔗 [https://vectorlearn-murex.vercel.app/](https://vectorlearn-murex.vercel.app/)
+🔗 Deploy: https://vectorlearn-murex.vercel.app/
+🔗 Repositório: [Vector-Learn](https://github.com/Carlos2505dev/Vector-Learn)
 
 ---
 
-### 🔥 Rios do Espírito
+## 🔥 Rios do Espírito
 
-Landing page desenvolvida para conferência com foco em conversão, experiência visual e performance.
+Landing page moderna, responsiva e de alta conversão desenvolvida para a conferência Rios do Espírito, com foco em engajamento, informação e conversão de visitantes em participantes.
 
-🔗 [https://conferenciariosdoespirito.vercel.app/](https://conferenciariosdoespirito.vercel.app/)
+### Stack:
+
+**React • TypeScript • Tailwind CSS • Vite**
+
+🔗 Deploy: https://conferenciariosdoespirito.vercel.app/
+🔗 Repositório: [Rios-do-Espirito](https://github.com/Carlos2505dev/rios-do-espirito-lp)
 
 ---
 
-## 🌐 Conecte-se comigo
+# 🚀 Experiência Real
+
+* ⚡ Aplicações em produção utilizadas por empresas reais
+* 📱 Desenvolvimento de sistemas web e mobile com foco em performance
+* 🔐 Implementação de autenticação, controle de acesso e integrações REST
+* 🎯 Soluções orientadas a negócio, usabilidade e escalabilidade
+* 🚀 Participação ativa em projetos com impacto direto no cliente final
+
+---
+
+# 🌐 Conecte-se comigo
 
 <div>
   <a href="https://www.instagram.com/carlos_bezerra2007/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
+
   <a href="https://www.linkedin.com/in/carlosbezerraneto/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -106,11 +132,9 @@ Landing page desenvolvida para conferência com foco em conversão, experiência
 
 ---
 
-## ⚙️ Estatísticas do GitHub
+# ⚙️ GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=Carlos2505dev\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=Carlos2505dev\&theme=dark\&hide_border=false)
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Carlos2505dev\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false\&layout=compact)
 
@@ -118,8 +142,10 @@ Landing page desenvolvida para conferência com foco em conversão, experiência
 
 <div align="left">
 
-## 🚀 Obrigado por visitar meu perfil!
+# 🚀 Obrigado por visitar meu perfil!
 
-Sempre aberto para novas oportunidades, conexões e projetos incríveis.
+Estou sempre aberto para novas oportunidades, conexões estratégicas e projetos incríveis.
+
+Se você procura alguém para construir soluções digitais com qualidade, performance e visão de produto — vamos conversar.
 
 </div>
