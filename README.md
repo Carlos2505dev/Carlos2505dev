@@ -82,7 +82,7 @@ Portfólio profissional desenvolvido com foco em performance, SEO, experiência 
 
 ---
 
-## 📚 VectorLearn
+## 📚 Vector Learn
 
 Plataforma interativa para estudantes aprenderem vetores e análise espacial por meio de simuladores 3D, desafios práticos e elementos de gamificação, tornando o aprendizado mais visual e eficiente.
 
