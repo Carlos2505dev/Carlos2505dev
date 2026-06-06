@@ -77,8 +77,8 @@ Portfólio profissional desenvolvido com foco em performance, SEO, experiência 
 
 **Next.js • TypeScript • Tailwind CSS • Vercel**
 
-🔗 Deploy: adicionar link
-🔗 Repositório: adicionar link
+🔗 Deploy: (Em Desenvolvimento)
+🔗 Repositório: [Web Portfólio](https://github.com/Carlos2505dev/webportfolio-Carlos)
 
 ---
 
@@ -90,7 +90,7 @@ Plataforma interativa para estudantes aprenderem vetores e análise espacial por
 
 **React • TypeScript • Vite • Three.js**
 
-🔗 Deploy: https://vectorlearn-murex.vercel.app/
+🔗 Deploy: [https://vectorlearn-murex.vercel.app/](https://vectorslearn.vercel.app/)
 🔗 Repositório: [Vector-Learn](https://github.com/Carlos2505dev/Vector-Learn)
 
 ---
@@ -103,7 +103,7 @@ Landing page moderna, responsiva e de alta conversão desenvolvida para a confer
 
 **React • TypeScript • Tailwind CSS • Vite**
 
-🔗 Deploy: https://conferenciariosdoespirito.vercel.app/
+🔗 Deploy: [Rios do Espírito](https://conferenciariosdoespirito.vercel.app/)
 🔗 Repositório: [Rios-do-Espirito](https://github.com/Carlos2505dev/rios-do-espirito-lp)
 
 ---
