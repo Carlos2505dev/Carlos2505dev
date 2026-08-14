@@ -1,41 +1,22 @@
-# 👨‍💻 Carlos Bezerra Neto
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8aed13&height=120&section=header"/>
 
-<div align="left">
-
-## Desenvolvedor Full Stack Web & Mobile | React • React Native • Next.js • TypeScript
-
-Desenvolvedor focado em construir produtos digitais escaláveis, performáticos e com impacto real no negócio, unindo experiência do usuário, boas práticas de desenvolvimento e visão de produto.
-
-Atualmente curso **Engenharia da Computação na Unijorge** e atuo como **Desenvolvedor Web & Mobile na InoveTech**, participando de projetos reais em produção com foco em performance, usabilidade e qualidade de entrega.
-
-Tenho experiência prática no desenvolvimento de aplicações web e mobile modernas, integração com APIs, autenticação, banco de dados, arquitetura de interfaces e soluções orientadas a resultados.
-
-🚀 Aberto a **estágios, oportunidades júnior, freelas e colaborações estratégicas**
-
-📩 **Contato para oportunidades:** [carlosbezerrajr2007@gmail.com](mailto:carlosbezerrajr2007@gmail.com)
-🔗 **LinkedIn:** [linkedin.com/in/carlosbezerraneto](https://www.linkedin.com/in/carlosbezerraneto/)
-🌎 **Open to international opportunities**
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&color=%238aed13&lines=Ol%C3%A1%2C+eu+sou+o+Carlos;Desenvolvedor+Fullstack+Web+%26+Mobile)](https://git.io/typing-svg)
 
 </div>
 
----
+- 💻 Desenvolvedor focado em construir produtos digitais escaláveis, performáticos e com impacto real no negócio, unindo experiência do usuário, boas práticas de desenvolvimento e visão de produto.
+- 📚 Atualmente curso **Engenharia da Computação na Unijorge** e atuo como **Desenvolvedor Web & Mobile**, participando de projetos reais em produção com foco em performance, qualidade de entrega e foco em gerar resultado para o negócio.
+- ⭐ Tenho experiência prática no desenvolvimento de aplicações web e mobile modernas, integração com APIs, autenticação, banco de dados, arquitetura de interfaces e soluções orientadas a resultados.
 
-# ✨ Sobre mim
+<div align="left">
+</div>
 
-* 🎓 Estudante de **Engenharia da Computação — Unijorge**
-* 💼 Desenvolvedor Web & Mobile na **InoveTech**
-* 📱 Foco principal em **React, React Native, Expo e TypeScript**
-* ⚡ Experiência com **Next.js, Supabase, APIs REST e aplicações em produção**
-* 🔐 Desenvolvimento com autenticação, controle de acesso e integrações client/server
-* 🎨 Atenção especial para **UX, interfaces responsivas e boas práticas**
-* 🧠 Resolução de problemas reais com visão de produto e performance
-* 🚀 Sempre construindo soluções que geram valor de verdade
+<br/>
+<br/>
 
----
-
-# 🧠 Tech Stack
-
-## 🌐 Front-end
+# 🧠 Tecnologias
 
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
@@ -45,107 +26,101 @@ Tenho experiência prática no desenvolvimento de aplicações web e mobile mode
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Vite](https://skillicons.dev/icons?i=vite)
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwindcss)
-
-## 📱 Mobile
-
-![React Native](https://skillicons.dev/icons?i=react) <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/expo.png" alt="Expo" title="Expo"/>
-
-## 🗄️ Back-end & Database
-
+![React Native](https://skillicons.dev/icons?i=react) <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/expo.png" alt="Expo" title="Expo" style="filter: invert(1) brightness(2);"/>
 ![Supabase](https://skillicons.dev/icons?i=supabase)
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/>
-
-## 🎨 UI & Design System
-
-![Figma](https://skillicons.dev/icons?i=figma) <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" alt="Shadcn UI" title="Shadcn UI"/> <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lucide.png" alt="Lucide" title="Lucide"/>
-
-## 🛠️ Ferramentas & Workflow
-
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Figma](https://skillicons.dev/icons?i=figma)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
+![Replit](https://skillicons.dev/icons?i=replit)
 
 ---
 
 # 📌 Projetos em Destaque
 
-## 🌐 Web Portfólio
-
-Portfólio profissional desenvolvido com foco em performance, SEO, experiência do usuário e apresentação estratégica de projetos e competências.
-
-### Stack:
-
-**Next.js • TypeScript • Tailwind CSS • Vercel**
-
-🔗 Deploy: (Em Desenvolvimento)
-🔗 Repositório: [Web Portfólio](https://github.com/Carlos2505dev/webportfolio-Carlos)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ Web Portfólio</h3>
+      <a href="https://github.com/Carlos2505dev/webportfolio-Carlos" target="_blank">
+        <img src="https://via.placeholder.com/800x420?text=Web+Portf%C3%B3lio" alt="Web Portfólio" />
+      </a>
+      <p>Portfólio profissional com foco em performance, SEO e apresentação estratégica de projetos.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Vercel</code></p>
+      <p align="center">
+        <a href="https://github.com/Carlos2505dev/webportfolio-Carlos"><strong>🔗 Repositório</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📚 Vector Learn</h3>
+      <a href="https://vectorlearn-murex.vercel.app/" target="_blank">
+        <img src="https://via.placeholder.com/800x420?text=Vector+Learn" alt="Vector Learn" />
+      </a>
+      <p>Plataforma interativa para aprendizado de vetores e análise espacial com simuladores 3D.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Three.js</code></p>
+      <p align="center">
+        <a href="https://vectorlearn-murex.vercel.app/"><strong>🔗 Deploy</strong></a> ·
+        <a href="https://github.com/Carlos2505dev/Vector-Learn">📂 Repositório</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📱 Meu Maná</h3>
+      <a href="#" target="_blank">
+        <img src="https://via.placeholder.com/800x420?text=Meu+Man%C3%A1" alt="Meu Maná" />
+      </a>
+      <p>Aplicativo cristão multiplataforma para que os cristãos possam organizar as suas disciplinas espirituais.</p>
+      <p><code>React Native</code> <code>Expo</code> <code>TypeScript</code></p>
+      <p align="center">
+        <strong>🔎 Em desenvolvimento</strong>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔥 Rios do Espírito</h3>
+      <a href="https://conferenciariosdoespirito.vercel.app/" target="_blank">
+        <img src="https://via.placeholder.com/800x420?text=Rios+do+Esp%C3%ADrito" alt="Rios do Espirito" />
+      </a>
+      <p>Landing page moderna e responsiva desenvolvida para a conferência Rios do Espírito.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Vite</code></p>
+      <p align="center">
+        <a href="https://conferenciariosdoespirito.vercel.app/"><strong>🔗 Deploy</strong></a> ·
+        <a href="https://github.com/Carlos2505dev/rios-do-espirito-lp">📂 Repositório</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📚 Vector Learn
+# 🌐 Onde Me Encontrar
 
-Plataforma interativa para estudantes aprenderem vetores e análise espacial por meio de simuladores 3D, desafios práticos e elementos de gamificação, tornando o aprendizado mais visual e eficiente.
-
-### Stack:
-
-**React • TypeScript • Vite • Three.js**
-
-🔗 Deploy: [https://vectorlearn-murex.vercel.app/](https://vectorslearn.vercel.app/)
-🔗 Repositório: [Vector-Learn](https://github.com/Carlos2505dev/Vector-Learn)
-
----
-
-## 🔥 Rios do Espírito
-
-Landing page moderna, responsiva e de alta conversão desenvolvida para a conferência Rios do Espírito, com foco em engajamento, informação e conversão de visitantes em participantes.
-
-### Stack:
-
-**React • TypeScript • Tailwind CSS • Vite**
-
-🔗 Deploy: [Rios do Espírito](https://conferenciariosdoespirito.vercel.app/)
-🔗 Repositório: [Rios-do-Espirito](https://github.com/Carlos2505dev/rios-do-espirito-lp)
-
----
-
-# 🚀 Experiência Real
-
-* ⚡ Aplicações em produção utilizadas por empresas reais
-* 📱 Desenvolvimento de sistemas web e mobile com foco em performance
-* 🔐 Implementação de autenticação, controle de acesso e integrações REST
-* 🎯 Soluções orientadas a negócio, usabilidade e escalabilidade
-* 🚀 Participação ativa em projetos com impacto direto no cliente final
-
----
-
-# 🌐 Conecte-se comigo
-
-<div>
+<div align="center">
   <a href="https://www.instagram.com/carlos_bezerra2007/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/carlosbezerraneto/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:carlosbezerrajr2007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 ---
 
-# ⚙️ GitHub Stats
+# ⚙️ Estatísticas no GitHub
 
-![](https://github-readme-stats.shion.dev/api?username=Carlos2505dev\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false)
+<div align="center">
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Carlos2505dev\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false\&layout=compact)
+<img height="180em" src="https://ithub-readme-stats-brown.vercel.app/api?username=Carlos2505dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&rank_icon=github&hide_border=true&bg_color=00000000&v=3"/>
 
----
-
-<div align="left">
-
-# 🚀 Obrigado por visitar meu perfil!
-
-Estou sempre aberto para novas oportunidades, conexões estratégicas e projetos incríveis.
-
-Se você procura alguém para construir soluções digitais com qualidade, performance e visão de produto — vamos conversar.
+<img height="180em" src="https://ithub-readme-stats-brown.vercel.app/api/top-langs/?username=Carlos2505dev&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br&hide_border=true&bg_color=00000000&v=3"/>
 
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8aed13&height=120&section=footer"/>
