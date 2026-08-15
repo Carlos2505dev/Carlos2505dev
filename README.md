@@ -6,9 +6,9 @@
 
 </div>
 
-- 💻 Desenvolvedor focado em construir produtos digitais escaláveis, performáticos e com impacto real no negócio, unindo experiência do usuário, boas práticas de desenvolvimento e visão de produto.
-- 📚 Atualmente curso **Engenharia da Computação na Unijorge** e atuo como **Desenvolvedor Web & Mobile**, participando de projetos reais em produção com foco em performance, qualidade de entrega e foco em gerar resultado para o negócio.
-- ⭐ Tenho experiência prática no desenvolvimento de aplicações web e mobile modernas, integração com APIs, autenticação, banco de dados, arquitetura de interfaces e soluções orientadas a resultados.
+- 💻 Desenvolvedor Full‑Stack: crio produtos digitais escaláveis e de alta performance, focando em experiência do usuário e resultados mensuráveis para o negócio.
+- 📚 Estudante de Engenharia da Computação (Unijorge) e Desenvolvedor Web & Mobile, entrego soluções em produção com foco em performance, qualidade e prazo.
+- ⭐ Experiência prática em aplicações web e mobile: integrações com APIs, autenticação, bancos de dados e arquitetura de interfaces.
 
 <div align="left">
 </div>
@@ -26,7 +26,8 @@
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Vite](https://skillicons.dev/icons?i=vite)
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwindcss)
-![React Native](https://skillicons.dev/icons?i=react) <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/expo.png" alt="Expo" title="Expo" style="filter: invert(1) brightness(2);"/>
+![React Native](https://skillicons.dev/icons?i=react) 
+![Expo](https://skillicons.dev/icons?i=expo)
 ![Supabase](https://skillicons.dev/icons?i=supabase)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
@@ -36,84 +37,88 @@
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![Replit](https://skillicons.dev/icons?i=replit)
 
----
+<br/>
+<br/>
 
 # 📌 Projetos em Destaque
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ Web Portfólio</h3>
+      <h3 align="center">Web Portfólio</h3>
       <a href="https://github.com/Carlos2505dev/webportfolio-Carlos" target="_blank">
-        <img src="https://via.placeholder.com/800x420?text=Web+Portf%C3%B3lio" alt="Web Portfólio" />
+        <img src="./webportfolio.jpeg" alt="Web Portfólio" width="100%" />
       </a>
-      <p>Portfólio profissional com foco em performance, SEO e apresentação estratégica de projetos.</p>
+      <p>Portfólio otimizado para performance e SEO, projetado para mostrar estudos de caso claros, resultados mensuráveis e uma experiência de navegação rápida.</p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Vercel</code></p>
-      <p align="center">
-        <a href="https://github.com/Carlos2505dev/webportfolio-Carlos"><strong>🔗 Repositório</strong></a>
-      </p>
+      <p align="center"><a href="https://carlosnetodev.vercel.app/" target="_blank"><strong>🔗 Ver Portfólio Completo</strong></a> · <a href="https://github.com/Carlos2505dev/webportfolio-Carlos"><strong>📂 Repositório</strong></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📚 Vector Learn</h3>
-      <a href="https://vectorlearn-murex.vercel.app/" target="_blank">
-        <img src="https://via.placeholder.com/800x420?text=Vector+Learn" alt="Vector Learn" />
+      <h3 align="center">Rios do Espírito</h3>
+      <a href="https://conferenciariosdoespirito.vercel.app/" target="_blank">
+        <img src="./riosdoespirito.jpeg" alt="Rios do Espirito" width="100%" />
       </a>
-      <p>Plataforma interativa para aprendizado de vetores e análise espacial com simuladores 3D.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Three.js</code></p>
-      <p align="center">
-        <a href="https://vectorlearn-murex.vercel.app/"><strong>🔗 Deploy</strong></a> ·
-        <a href="https://github.com/Carlos2505dev/Vector-Learn">📂 Repositório</a>
-      </p>
+      <p>Landing page de alta conversão para a conferência Rios do Espírito, focada em captação de inscritos, apresentação de palestrantes e informação clara sobre programação e inscrição.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Vite</code></p>
+      <p align="center"><a href="https://conferenciariosdoespirito.vercel.app/"><strong>🔗 Ver site no ar</strong></a> · <a href="https://github.com/Carlos2505dev/rios-do-espirito-lp"><strong>📂 Repositório</strong></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📱 Meu Maná</h3>
-      <a href="#" target="_blank">
-        <img src="https://via.placeholder.com/800x420?text=Meu+Man%C3%A1" alt="Meu Maná" />
+      <h3 align="center">Vector Learn</h3>
+      <a href="https://vectorlearn-murex.vercel.app/" target="_blank">
+        <img src="./vectorlearn.jpeg" alt="Vector Learn" width="100%" />
       </a>
-      <p>Aplicativo cristão multiplataforma para que os cristãos possam organizar as suas disciplinas espirituais.</p>
-      <p><code>React Native</code> <code>Expo</code> <code>TypeScript</code></p>
-      <p align="center">
-        <strong>🔎 Em desenvolvimento</strong>
-      </p>
+      <p>Plataforma educacional com simuladores 3D e exercícios interativos que tornam o aprendizado de vetores e análise espacial prático, visual e orientado a projetos.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Three.js</code></p>
+      <p align="center"><a href="https://vectorslearn.vercel.app/" target="_blank"><strong>🔗 Ver a plataforma no ar</strong></a> · <a href="https://github.com/Carlos2505dev/Vector-Learn"><strong>📂 Repositório</strong></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🔥 Rios do Espírito</h3>
-      <a href="https://conferenciariosdoespirito.vercel.app/" target="_blank">
-        <img src="https://via.placeholder.com/800x420?text=Rios+do+Esp%C3%ADrito" alt="Rios do Espirito" />
+      <h3 align="center">Meu Maná</h3>
+      <a href="#" target="_blank">
+        <img src="./meumana.jpeg" alt="Meu Maná" width="100%" />
       </a>
-      <p>Landing page moderna e responsiva desenvolvida para a conferência Rios do Espírito.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Vite</code></p>
-      <p align="center">
-        <a href="https://conferenciariosdoespirito.vercel.app/"><strong>🔗 Deploy</strong></a> ·
-        <a href="https://github.com/Carlos2505dev/rios-do-espirito-lp">📂 Repositório</a>
+      <p>Aplicativo cristão multiplataforma para organizar disciplinas espirituais: planos de leitura, lembretes diários, registro de orações e reflexões, e progresso pessoal com notificações. <em>O código-fonte é propriedade da InoveTech e não está disponível publicamente.</em>
       </p>
+      <p><code>React Native</code> <code>Expo</code> <code>TypeScript</code></p>
+      <p align="center"><a href="#" target="_blank"><strong>🔗 Ver o aplicativo no ar</strong></a></p>
     </td>
   </tr>
 </table>
 
 ---
 
+<br/>
+<br/>
+
 # 🌐 Onde Me Encontrar
 
 <div align="center">
-  <a href="https://www.instagram.com/carlos_bezerra2007/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/carlosbezerraneto/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:carlosbezerrajr2007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://www.instagram.com/carlos_bezerra2007/" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/carlosbezerraneto/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:carlosbezerrajr2007@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
----
+<br/>
+<br/>
 
-# ⚙️ Estatísticas no GitHub
+# ⚙️ Estatísticas no Github
 
 <div align="center">
 
